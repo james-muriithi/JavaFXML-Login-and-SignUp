@@ -73,7 +73,7 @@
             <Insets left="15.0" right="15.0" top="20.0" />
          </VBox.margin>
          <children>
-            <JFXButton fx:id="btn_signup" onAction="#signUp" prefHeight="47.0" prefWidth="85.0" styleClass="pink-btn" text="Sign In">
+            <JFXButton fx:id="btn_signup" onAction="#signUp" prefHeight="47.0" prefWidth="85.0" styleClass="pink-btn" text="Log In">
                <font>
                   <Font size="13.0" />
                </font>
